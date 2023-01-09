@@ -10,7 +10,7 @@
  💬 Ask me about anything
  
  📫 How to reach me: ...
- <a href="linkedin.com/in/agatha-augustine-msola-435848250" target="blank"><img align="center" src="https://www.flaticon.com/free-icon/linkedin_3536505?term=linkedin+logo&page=1&position=1&origin=search&related_id=3536505" height="100" /></a>
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](linkedin.com/in/agatha-augustine-msola-435848250)
  
  😄 Pronouns: She/her
  
