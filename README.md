@@ -10,10 +10,6 @@
  💬 Ask me about anything
  
  📫 How to reach me: ...
-[[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "//linkedin.com/in/agatha-augustine-msola-435848250"
  
  😄 Pronouns: She/her
  
