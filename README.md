@@ -16,4 +16,4 @@
  ⚡ Fun fact: Nothing is new under the sun
  
  <h2>My skills</h2>
-(https://skills.thijs.gg/icons?i=js,html,css,sass,bootstrap,react)](https://skills.thijs.gg)
+![My Skills](https://skillicons.dev/icons?i=py,git,github,discord,bootstrap,arduino)
