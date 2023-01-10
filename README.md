@@ -1,5 +1,6 @@
-### Hi there 👋 I am Agatha A Msola.
+### Hi there 👋 <h1>I am Agatha A Msola.</h1>
 
+<h2> A FullStack Developer </h2>
 
  🌱 I’m currently learning Software and Web development at Digital Career Institute
  
