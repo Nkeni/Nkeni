@@ -16,4 +16,8 @@
  ⚡ Fun fact: Nothing is new under the sun
  
  <h2>My skills</h2>
-![My Skills](https://skillicons.dev/icons?i=py,git,github,discord,bootstrap,arduino)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
