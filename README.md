@@ -14,4 +14,6 @@
  😄 Pronouns: She/her
  
  ⚡ Fun fact: Nothing is new under the sun
-
+ 
+ <h2>My skills</h2>
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,sass,bootstrap,react)](https://skills.thijs.gg)
